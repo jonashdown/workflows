@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mermaid": "^9.1.7",
+    "mermaid": "^11.2.1",
     "mermaid-cli": "^0.2.4"
   }
 }
